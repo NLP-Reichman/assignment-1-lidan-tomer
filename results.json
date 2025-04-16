@@ -3,25 +3,25 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 747,
-    "english_3_gram_length": 8238,
-    "french_3_gram_length": 8285,
-    "spanish_3_gram_length": 8468
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 31.63,
-    "en_on_fr": 66.87,
-    "en_on_tl": 90.31,
-    "en_on_nl": 77.53
+    "en_on_en": 26.74,
+    "en_on_fr": 58.49,
+    "en_on_tl": 70.59,
+    "en_on_nl": 61.41
   },
   "test_match": "KeyError('source')",
   "test_generate": {
-    "english_2_gram": "I amisswow d\u3164\uff27\ud83d\udda4\u0300\uc2a8\ud83e\udd27\u2506\uff34\u0152\u26156D",
-    "english_3_gram": "I am\u2206\ud83d\udcac\u30ed\ud83d\uddc2\ud83d\udc32\ud83d\ude8c\ud83d\udca8\ud83c\udfba\uff08X\ud83d\ude87\uc158\ud83d\udd28\u2615\ud83c\udfb2\u00a5\u0e39\u0437\u5165\uc2a8",
-    "english_4_gram": "I Love\u9593\ud83d\udcac\u30ed\ud83d\uddc2\ud83d\udc32\ud83d\ude8c\ud83d\udca8\ud83c\udfba\uff08X\ud83d\ude87\uc158\ud83d\udd28\u2615\ud83c\udfb2\u00a5\u0e39\u0437\u5165\uc2a8",
-    "spanish_2_gram": "Soyerq\ud83d\udc06\ud83d\udca8\ud83c\uddf2\uc2a8\ud83d\ude87\uc158\ud83d\udd28\u2615\ud83c\udfb2\u00a5\u0e39\u0437\u5165\uc2a8\ud83e\udd27\u250f\uff34",
-    "spanish_3_gram": "Soy\u6620\ud83d\udcac\u30ed\ud83d\uddc2\ud83d\udc32\ud83d\ude8c\ud83d\udca8\ud83c\udfba\uff08X\ud83d\ude87\uc158\ud83d\udd28\u2615\ud83c\udfb2\u00a5\u0e39\u0437\u5165\uc2a8",
-    "french_2_gram": "Je suisessusu d\u3001\ud83c\uddec\ud83d\udda4\u0301\uc2a8\ud83e\udd27\u2506\uff34\u035c\ud83c\uddf0\u2533\ud83d\udc95",
-    "french_3_gram": "Je suisq\ud83c\udf89\ud83d\uddc2\ud83d\udc32\ud83d\ude8c\ud83d\udca8\ud83c\udfba\uff08X\ud83d\ude87\uc158\ud83d\udd28\u2615\ud83c\udfb2\u00a5\u0e39\u0437\u5165\uc2a8\ud83e\udd27"
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amit: Lynmkm ways.",
+    "english_4_gram": "I Love gifts @OndMade a no",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy orbe",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis tune"
   }
 }
